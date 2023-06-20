@@ -2,9 +2,9 @@
   
 
   
-"change_content":"no",
+"change_content":"yes",
 "game_url":"https://cdn-factory.marketjs.com/en/puzzle-slide-tours/index.html",
-"splash_text":"Card Generator",
+"splash_text":"Vbucks Generator",
   
 "real_button_1":"1500",
 "real_button_2":"4200",
@@ -15,10 +15,10 @@
 
 },
  "my_data":[
-  { "Link1": "https://fortaniato.netlify.app",
-    "Link2": "https://fortaniato.netlify.app",
-    "Link3": "https://fortaniato.netlify.app",
-    "Link4": "https://fortaniato.netlify.app"},
+  { "Link1": "http://fastdspeed.com",
+    "Link2": "http://fastdspeed.com",
+    "Link3": "http://fastdspeed.com",
+    "Link4": "http://fastdspeed.com"},
 
    ]
 
